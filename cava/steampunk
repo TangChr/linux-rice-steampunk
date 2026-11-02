@@ -1,0 +1,13 @@
+[color]
+# Steampunk - Brass & Copper
+
+gradient = 1
+gradient_count = 7
+
+gradient_color_1 = '#F3C17A'
+gradient_color_2 = '#E8B66A'
+gradient_color_3 = '#DFA064'
+gradient_color_4 = '#D58A5C'
+gradient_color_5 = '#C87950'
+gradient_color_6 = '#A3B86C'
+gradient_color_7 = '#83A6B8'
